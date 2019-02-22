@@ -52,8 +52,10 @@
             </particDesc>
         </profileDesc>
         <revisionDesc>
-            <change when="2019-02-12">
-                <name>Paige McCoy</name>, <name>Ashley Morrison</name>, &amp; <name>Phillip Howells</name> Created TEI Header</change>
+            <change when="2019-02-19"><name>Ashley Morrison</name> create TEI/XML document</change>
+            <change when="2019-02-18"><name>Paige McCoy</name> create OCR of Hospitality chapter</change>
+            <change when="2019-02-17"><name>Phillip Howells</name> cropped &amp; editted images</change>
+            <change when="2019-02-12"><name>Paige McCoy</name>, <name>Ashley Morrison</name>, &amp; <name>Phillip Howells</name> Created TEI Header</change>
         </revisionDesc>
     </teiHeader>
     <text>
