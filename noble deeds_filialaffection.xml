@@ -29,7 +29,9 @@
                     <title level="a">Noble Deeds of Woman.</title>
                     <publisher>Carey, Lea, and Blanchard.</publisher>
                     <date when="1836">1836</date>
-                    <biblScope unit="volume">2</biblScope>
+                    <biblScope unit="volume">1</biblScope>
+                    <biblScope unit="chapter">Filial Affection</biblScope>
+                    <biblScope unit="page">27-52</biblScope>
                     <pubPlace>Philadelphia</pubPlace>
                     <note>Transcribed from Rare Books, Archives &amp; Special Collections,
                         University Libraries, University of Nebraska-Lincoln. </note>
@@ -45,24 +47,16 @@
         <profileDesc>
             <particDesc>
                 <listPerson type="referenced">
-                    <person xml:id="anacaona">
-                        <persName>Anacaona</persName>
-                        <note>Anacaona (1474-1503) was a Taíno chief, born in what is now Léogâne,
-                            Haiti, into a family of chiefs. Her brother and her husband were two of
-                            the five highest chiefs who ruled the island of <choice>
-                                <orig>Kiskeya</orig>
-                                <reg>Hispaniola</reg>
-                            </choice> when the Spaniards colonized it in 1492. She was celebrated as
-                            a composed of ballards and narrative poems, called areítos.</note>
-                    </person>
+                    <person/>
                 </listPerson>
             </particDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2019-02-28"><name>Ashley Morrison</name> proof-read document</change>
             <change when="2019-02-27"><name>Ashley Morrison</name> create TEI/XML document</change>
-            <change when="2019-02-26"><name>Paige McCoy</name> create OCR of Hospitality
-                chapter</change>
-            <change when="2019-02-17"><name>Phillip Howells</name> cropped &amp; editted
+            <change when="2019-02-26"><name>Paige McCoy</name> create OCR of Filial Affection
+                chapter and proof-read OCR</change>
+            <change when="2019-02-26"><name>Phillip Howells</name> cropped &amp; editted
                 images</change>
             <change when="2019-02-12"><name>Paige McCoy</name>, <name>Ashley Morrison</name>, &amp;
                     <name>Phillip Howells</name> Created TEI Header</change>
@@ -71,33 +65,34 @@
     <text>
         <body>
             <div type="chapter">
-                <pb facs="noble_006.jpg" n="27"/>
+                <pb facs="noble_028.jpg" n="27"/>
                 <fw>39</fw>
                 <head>F<hi rend="smallCaps">ilial</hi> A<hi rend="smallCaps">ffection</hi>.</head>
                 <lb type="horBar"/>
-                <p>ROMAN DAUGHTER. --XANTIPPE.--MARGARET ROPER— MRS. MORICE. -AMERICAN DAUGHTER. –
-                    ELIZABETH CAZOTTE.-MADEMOISELLE DE SOMBREUIL.--MADAME DE BOIS
-                    BERANGER.-MADEMOISELLE DELLEGLACE.— INFANT VICTIM TO FILIAL AFFECTION..----THE
-                    CREOLE AND HIS DAUGHTER.---MADAME DE ROCHEFOUCAULT. </p>
+                <p>ROMAN DAUGHTER.—XANTIPPE.—MARGARET ROPER.— MRS. MORICE.—AMERICAN DAUGHTER.—
+                    ELIZABETH CAZOTTE.—MADEMOISELLE DE SOMBREUIL.—MADAME DE BOIS
+                    BERANGER.—MADEMOISELLE DELLEGLACE.—INFANT VICTIM TO FILIAL AFFECTION.—THE CREOLE
+                    AND HIS DAUGHTER.—MADAME DE ROCHEFOUCAULT. </p>
                 <lb type="horBar"/>
-                <quote>" Heaven bath timely tried their youth, Their faith, their patience, and
-                    their truth, And sent them here, through hard assays, With a crown of deathless
-                    praise." <persName>MILTON.</persName>
+                <quote>"Heaven hath timely tried their youth, Their faith, their patience, and their
+                    truth, And sent them here, through hard assays, With a crown of deathless
+                    praise." <persName>M<hi rend="smallCaps">ilton</hi>.</persName>
                 </quote>
                 <p>N<hi rend="smallCaps">ature</hi> has implanted in every human breast a
                     disposition to love and revere the authors of our being, on whom, from our
                     earliest infancy, we are dependant for every comfort, convenience, and pleasure
-                    in life : every heart which is not wholly destitute of feeling, must beat with
+                    in life: every heart which is not wholly destitute of feeling, must beat with
                     the warmest emotions of gratitude towards them, and be alive to the tenderness
                     of filial piety. Thus we find that in all ages of the world, those who have
                     become truly great, whatever may have been their country, whether they have been
                     the natives of enlightened Europe, or of a land of unpolished savages, have
-                    always been distinguished, either in their <pb facs="noble_007.jpg" n="28"/>
-                    <fw>28 FILIAL AFFECTION.</fw> infancy or at a more advanced period of life by
+                    always been distinguished, either in their <pb facs="noble_029.jpg" n="28"/>
+                    <fw>28 FILIAL AFFECTION.</fw> infancy or at a more advanced period of life, by
                     some trait of this affection, which appears to form a basis for all the other
                     virtues.</p>
-                <quote>" Can such things be, And overcome us like a summer's cloud, Without our
-                    special wonder ?” <persName>SHAKESPEARE.</persName>
+                <lb type="horBar"/>
+                <quote> "Can such things be, And overcome us like a summer's cloud, Without our
+                    special wonder?" <persName>S<hi rend="smallCaps">hakespeare</hi>.</persName>
                 </quote>
                 <p>T<hi rend="smallCaps">he</hi> Roman history furnishes us with two remarkable
                     examples of filial piety. A Roman lady, of illustrious birth, had for some cause
@@ -112,41 +107,41 @@
                     now determined to watch still more closely: to his utmost astonishment he found
                     that she nourished her mother with her own milk. His amazement at this pious and
                     ingenious invention caused him to inform the triumvir of the circumstance, who
-                    immediately acquainted the praetor with it. The latter, <pb facs="noble_008.jpg"
+                    immediately acquainted the praetor with it. The latter, <pb facs="noble_030.jpg"
                         n="29"/>
                     <fw>FILIAL AFFECTION. 29</fw> considering it worthy the public attention,
                     related it in an assembly of the people. The result was the pardon of the
-                    criminal ; and, at the same time, a decree was passed, that for the future both
+                    criminal; and, at the same time, a decree was passed, that for the future both
                     mother and daughter should be supported at the public expense. The Romans also
                     raised a Temple upon the spot, and dedicated it to Filial Piety.</p>
-                <quote>"My child and father vital nurture crave, Parental, filial, fondness both
-                    would save ; But if a nursling only one can live, I choose to save the life I
-                    cannot give."</quote>
+                <lb type="horBar"/>
+                <quote> "My child and father vital nurture crave, Parental, filial, fondness both
+                    would save; But if a nursling only one can live, I choose to save the life I
+                    cannot give." </quote>
 
                 <p>X<hi rend="smallCaps">antippe</hi>, another Roman lady, supported her aged father
                     Cimonus in a similar manner, in order to preserve his life while in prison. This
                     last circumstance was called the "Roman Charity." Both these pious actions
                     appeared so extraordinary to that people, that they could only account for them
                     by supposing that filial affection was the first law of nature.</p>
-
-
-                <quote>"'Twas the first time I mourned the dead : It was my heaviest loss, my
-                    worst,— My father !—and was thine the first ?" <persName>L. E.
+                <lb type="horBar"/>
+                <quote> "'Twas the first time I mourned the dead: It was my heaviest loss, my
+                    worst,— My father!—and was thine the first?" <persName>L. E.
                     L.</persName></quote>
 
 
-                <p>MODERN history commemorates the name of Margaret Roper, the daughter of Sir
-                    Thomas More, as another illustrious example of this affection. When Sir Thomas,
-                    who had refused to take the oath of supremacy, was cast into <pb
-                        facs="noble_x.jpg" n="30"/>
-                    <fw>FILIAL AFFECTION. 30</fw> Prison, his daughter, who was overwhelmed with
+                <p>M<hi rend="smallCaps">odern</hi> history commemorates the name of Margaret Roper,
+                    the daughter of Sir Thomas More, as another illustrious example of this
+                    affection. When Sir Thomas, who had refused to take the oath of supremacy, was
+                    cast into <pb facs="noble_031.jpg" n="30"/>
+                    <fw>30 FILIAL AFFECTION. </fw> prison, his daughter, who was overwhelmed with
                     grief, was, through incessant importunity, permitted to visit him. Admitted at
                     length to his prison, she endeavoured, by every argument, expostulation, and
                     entreaty, to induce him to relent from his purpose. But her eloquence, her
-                    tenderness, and her tears, were alike ineffectual : constant to the last, the
+                    tenderness, and her tears, were alike ineffectual: constant to the last, the
                     principles of this great and unfortunate man were not to be shaken. Margaret
                     corresponded with her father during the whole of his imprisonment, and when
-                    deprived of pen and ink Sir Thomas contrived to write to her by means of a
+                    deprived of pen and ink, Sir Thomas contrived to write to her by means of a
                     coal.</p>
                 <p>When sentence had been passed upon him, and he was returning towards the Tower,
                     Margaret rushed through the populace and the guards, and, without speaking,
@@ -154,162 +149,171 @@
                     despair. Even the guards melted into compassion at this affecting scene. The
                     fortitude of the noble prisoner seemed for a moment to be shaken with the sight
                     of his daughter's sorrow. Tenderly embracing her, he withdrew himself from her
-                    arms. Scarcely however had he of sorrow tow proceeded a few paces further,
-                    paroxysm when she again rushed towards him, and, in a more eloquent than words,
-                    threw herself on his bosom. Tears flowed while he down the venerable cheeks of
-                    Sir Thomas while he gazed upon her with tender earnestness: having entreated her
+                    arms. Scarcely however had he proceeded a few paces further, when she again
+                    rushed towards him, and, in a paroxysm of sorrow more eloquent than words, threw
+                    herself on his bosom. Tears flowed while he down the venerable cheeks of Sir
+                    Thomas while he gazed upon her with tender earnestness: having entreated her
                     prayers for him, he bade her affectionately farewell.</p>
-                <p>Margaret extended her cares to the lifeless <pb facs="noble_x.jpg" n="31"/>
+                <p>Margaret extended her cares to the lifeless <pb facs="noble_032.jpg" n="31"/>
                     <fw>FILIAL AFFECTION. 31</fw> remains of this beloved parent. Through her
                     interest and exertions, his body was, after his execution, interred in the
-                    Chapel of St. Peter's ad vincula, within the Precincts of the Tower : it was
-                    afterwards removed, according to the appointment which had been made by Sir
-                    Thomas during his lifetime, to the chancel of the church of Chelsea. His head,
-                    in conformity with the sentence, having remained fourteen days exposed upon
-                    London Bridge, would have been cast into the Thames, had it not been purchased
-                    by his daughter. Inhumanly summoned in consequence before the council, Margaret
-                    firmly acknowledged and justified her conduct. Such intrepidity could not escape
-                    King Henry's vengeance : she was cast into prison, whence, after some vain
-                    attempts to subdue her courage by menaces, she was permitted to escape, and join
-                    her husband and family. At her death, which took place nine years after these
-                    events, the head of her unfortunate parent was interred with her in her arms,
-                    according to some historians , or, as others say, deposited in a leaden box, and
-                    placed upon her coffin.</p>
-
-                <quote>"O glorious trial of exceeding, love, Illustrious evidence, example high!"
-                        <persName>MILTON.</persName></quote>
+                    Chapel of St. Peter's <hi rend="italics">ad vincula</hi>, within the precincts
+                    of the Tower: it was afterwards removed, according to the appointment which had
+                    been made by Sir Thomas during his lifetime, to the chancel of the church of
+                    Chelsea. His head, in conformity with the sentence, having remained fourteen
+                    days exposed upon London Bridge, would have been cast into the Thames, had it
+                    not been purchased by his daughter. Inhumanly summoned in consequence before the
+                    council, Margaret firmly acknowledged and justified her conduct. Such
+                    intrepidity could not escape King Henry's vengeance: she was cast into prison,
+                    whence, after some vain attempts to subdue her courage by menaces, she was
+                    permitted to escape, and join her husband and family. At her death, which took
+                    place nine years after these events, the head of her unfortunate parent was
+                    interred with her in her arms, according to some historians; or, as others say,
+                    deposited in a leaden box, and placed upon her coffin.</p>
+                <lb type="horBar"/>
+                <quote> "O glorious trial of exceeding, love, Illustrious evidence, example high!"
+                            <persName>M<hi rend="smallCaps">ilton</hi>.</persName></quote>
 
                 <p>T<hi rend="smallCaps">he</hi> exile of the Bishop of Rochester gave occasion to a
                     very interesting exercise of paternal tenderness on the one part, and of filial
-                    duty and affection on the other. What mostly <pb facs="x" n="32"/>
-                    <fw>32 FILIAL AFFECTION.</fw> Embittered the banishment of the Bishop, was
+                    duty and affection on the other. What mostly <pb facs="noble_033.jpg" n="32"/>
+                    <fw>32 FILIAL AFFECTION.</fw> embittered the banishment of the Bishop, was
                     regret at leaving behind him his daughter, Mrs. Morice, in an infirm state of
                     health. A mutual longing to see one another took fast hold of the father and
                     daughter; and the lady, though very ill, performed, with great difficulty and
-                    pain, a journey and voyage from Westminster to Bourdeauz, and Toulouse, where
-                    Dr. Atterburg resided. Mr. J. Evans accompanied Mr. and Mrs. Morice on their
+                    pain, a journey and voyage from Westminster to Bourdeaux, and Toulouse, where
+                    Dr. Atterbury resided. Mr. J. Evans accompanied Mr. and Mrs. Morice on their
                     voyage from Dover to Bourdeaux, and from thence to Toulouse; and being present
                     at Mrs. Morice’s death, in a letter to his brother, dated Montpelier, 30th
                     November, 1729, gives the following very pathetic narrative of that event.</p>
-                <p>“On Sunday, the 6th instant, N.S. in the evening, we reached Blagnac, a village
+                <q>“On Sunday, the 6th instant, N.S. in the evening, we reached Blagnac, a village
                     not above half a league by land from Toulouse; but by water (by reason of a very
                     strong current, and the windings of the river,) it takes three hours to get up
-                    to the town. So it was resolves, rather than expose Mrs. Morice too much to the
+                    to the town. So it was resolved, rather than expose Mrs. Morice too much to the
                     fatigue, (of which she had undergone an infinite deal, and bore it with
                     incredible patience,) or keep her late on the water, to rest at Blagnac that
                     night, where she was put to bed in the same weak condition she usually had been,
                     but not seemingly worse. About midnight, the women came to Mr. Morice and me,
                     and told us, they thought they saw her changed. We rose and came to her chamber,
                     when we found her so very ill, that we thought fit to call up the boatmen, and
-                    order them to prepare the boat to depart immediately, fearing <pb facs="x"
-                        n="33"/>
+                    order them to prepare the boat to depart immediately, fearing <pb
+                        facs="noble_034.jpg" n="33"/>
                     <fw>FILIAL AFFECTION. 33 </fw> much, from the change we saw, that near she was
                     to it, she would scarcely live to reach Toulouse, which we all earnestly desired
                     to do, since no physician, or other help, could be had in the poor place where
-                    we then were. She herself pressed this matter ; and we well knew that all her
+                    we then were. She herself pressed this matter; and we well knew that all her
                     desires and wishes were constantly bent upon seeing her father, whom she hoped
                     to find at Toulouse. She was taken out of bed at her own desire, and carried to
                     the boat with great difficulty, not being able to sit in the chair which Mr.
                     Morice had brought from Bourdeaux, with two chairmen, purely for the carrying
-                    her in and out of the boat more at ease ; and so we parted thence about two
+                    her in and out of the boat more at ease; and so we parted thence about two
                     o'clock in the morning, sending two servants, by land, to procure a litter to
-                    meet her at the by landing-place. About five we arrived there ; and soon after
+                    meet her at the by landing-place. About five we arrived there; and soon after
                     six the litter came, which carried Mrs. Morice to the house in Toulouse, where
                     her father was expecting her arrival, and not knowing, till then, how near or
                     how far off she was, though he had despatched a man and horse to get
                     intelligence of us, who happened to miss us. When the servants, who had been
                     sent for the litter, returned, she was informed of the Bishop's being at
                     Toulouse, and seemed to take new spirits upon it, which, no doubt, were of great
-                    use to enable her to bear going, in the litter, which, otherwise, she could
+                    use to enable her to bear going in the litter, which, otherwise, she could
                     scarce have done even for so short a way. After she had been put into bed
-                    (where, as I told you,' she never slept till she slept her last,) and had a
+                    (where, as I told you, she never slept till she slept her last,) and had a
                     little recovered the fatigue she underwent in <fw>VOL. I. D </fw>
-                    <pb facs="x" n="34"/>
+                    <pb facs="noble_35.jpg" n="34"/>
                     <fw>34 FILIAL AFFECTION.</fw> the conveyance from the boat, which was about a
                     mile, her father, whom she immediately inquired after, came into her room, and
                     was startled to see her in so very low a condition. After mutual expressions of
                     concern and tenderness, she particularly acknowledged the great blessing that
-                    was granted her, of meeting her dear papa ; and exerted all the little life that
-                    was in her, in grasping his hands With her utmost force, as she often did; and
-                    told him, 'that meeting was the chief thing she bad ardently desired.'</p>
-                <p>“The bishop some time after left her chamber that she might compose herself, and
+                    was granted her, of meeting her dear papa; and exerted all the little life that
+                    was in her, in grasping his hands with her utmost force, as she often did; and
+                    told him, 'that meeting was the chief thing she bad ardently desired.'</q>
+                <q>“The bishop some time after left her chamber, that she might compose herself, and
                     that he might give vent to the just grief he was filled with, to see his beloved
                     child in a manner expiring. But we found she took no rest: so he soon returned,
                     and then said prayers by her, and proposed to her receiving the holy sacrament
                     the next morning, when he hoped she might have been a little refreshed, in order
-                    to it : she embraced the offer with much satisfaction. He then asked her, for
+                    to it: she embraced the offer with much satisfaction. He then asked her, for
                     fear of any accident, if she was not desirous to have the absolution of the
-                    church ? She declared she was and begged to have it. After some little private
-                    discourse with her some little private discourse with her, he gave it to her, in
-                    the form prescribed in ‘The Visitation of the Sick,' and she expressed great
-                    comfort of the fort upon receiving it. A physician had been sent for immediately
-                    upon her arrival. When he came, he gave little hopes, but said all depended upon
-                    her manner of passing that night.</p>
-                <p>"She once mentioned Dr. Wyntle, who you <pb facs="x" n="35"/>
+                    church? She declared she was, and begged to have it. After some little private
+                    discourse with her, he gave it to her, in the form prescribed in ‘The Visitation
+                    of the Sick,' and she expressed great comfort of the fort upon receiving it. A
+                    physician had been sent for immediately upon her arrival. When he came, he gave
+                    little hopes, but said all depended upon her manner of passing that night.</q>
+                <q>"She once mentioned Dr. Wyntle, who you <pb facs="noble_036.jpg" n="35"/>
                     <fw>FILIAL AFFECTION. 35</fw> know had been her physician; and who had so
                     neglected her before she left England, as never to come near her, according to
                     his appointment, nor give the least direction for her management in the long
-                    voyage she was about to make. She said to the Bishop ‘Dear papa, has Mr. Morice
-                    told you how Dr. Wyntle has served us ?' Who answered, ' Yes my dear, I know it
-                    all but do not let that trouble you now.' She replied, ‘O no, papa, I do not
-                    trouble myself about that I have other things to think of at this time ; but I
-                    did not know whether Mr. Morice had told you.'</p>
-                <p>"Hoping by this time she might incline to take a little rest, her father and
+                    voyage she was about to make. She said to the Bishop 'Dear papa, has Mr. Morice
+                    told you how Dr. Wyntle has served us?' who answered, 'Yes, my dear, I know it
+                    all; but do not let that trouble you now.' She replied, 'O no, papa, I do not
+                    trouble myself about that I have other things to think of at this time; but I
+                    did not know whether Mr. Morice had told you.'</q>
+                <q>"Hoping by this time she might incline to take a little rest, her father and
                     husband retired, it being between eleven and twelve at night; but about two in
                     the morning she sent one of her women to me, (who lay on the same floor, in the
-                    next room to her,) to desire to speak to me ; and when I came, she said, not
+                    next room to her,) to desire to speak to me; and when I came, she said, not
                     seemingly with much pain, but with such a shortness of breath that she was
-                    forced to breathe after every two or three words, ‘Mr. Evans, I have been
-                    waking—these three hours—and would fain have the sacrament.' I wondered at her
-                    sending for me on that account, her husband and father being both near at hand
+                    forced to breathe after every two or three words, 'Mr. Evans, I have been
+                    waking—these three hours—and would fain—have the sacrament.' I wondered at her
+                    sending for me on that account, her husband and father being both near at hand;
                     but I found afterwards it was her unwillingness, by a direct message from
                     herself, too much to alarm either of them. However, being then not apprized of
                     her reason for it, I doubted a little of her being in her right senses, and
-                    said, ‘Madam, would you now receive the sacrament ?’ She said, ‘Yes, I would, if
-                    possible—presently.’ Of <pb facs="x" n="36"/>
+                    said, 'Madam, would you <hi rend="italics">now</hi> receive the sacrament?' She
+                    said, 'Yes, I would, if possible—presently.' Of <pb facs="noble_037.jpg" n="36"/>
                     <fw>36 FILIAL AFFECTION.</fw> which the Bishop being immediately advised, as was
                     Mr. Morice, and every thing being prepared, he came, and administered to her,
-                    and to all present, the sacrament ; and afterwards 'at her desire, continued
+                    and to all present, the sacrament; and afterwards, at her desire, continued
                     repeating the prayers of the church, till she began to draw very near her end,
-                    and then he used and continued the recommendatory prayer only ; she, all the
+                    and then he used and continued the recommendatory prayer only; she, all the
                     while, holding her hands in a posture of prayer, and sometimes joining in a low
-                    voice with him.</p>
+                    voice with him.</q>
 
-                <p>"After this, her father being gone from the bed-side, she called for him, (as she
-                    had frequently done,) and again said to him, ‘Dear papa—what a blessing is
-                    it—that afer such a long—troublesome—journey—we have the comfort--of this
-                    meeting!’ And, indeed, when I reflect upon it, and consider the weak condition
+                <q>"After this, her father being gone from the bed-side, she called for him, (as she
+                    had frequently done,) and again said to him, 'Dear papa—what a blessing is
+                    it—that afer such a long—troublesome—journey—we have the comfort—of this
+                    meeting!' And, indeed, when I reflect upon it, and consider the weak condition
                     she was in upon the road, the many accidents that happened to retard the voyage,
-                    and the last effort she made, when the worst, think that that meeting seemed
-                    granted by heaven to her continued fervent prayers for it.</p>
-                <p>“About this time she called for her husband, (who was always in near attendance
-                    upon her,) and said, ‘Dear Mr. Morice—take care of the children—I know you
-                    will.—Remember me—to the Duchess of Buckingham.’</p>
-                <p>“She also, in a proper place, recommended her servants to Mr. Morice.</p>
-                <p>“She now found her feet cold, and ordered them to be rubbed, at the same time
-                    calling for her broth; but when it came, not being able to <pb facs="x" n="37"/>
-                    <fw>FILAIL AFFECTION. 37</fw> swallow it, she turned herself on her left side,
+                    and the last effort she made, when she was at the worst, think that that meeting
+                    seemed granted by heaven to her continued fervent prayers for it.</q>
+                <q>"About this time she called for her husband, (who was always in near attendance
+                    upon her,) and said, 'Dear Mr. Morice—take care of the children—I know you
+                    will.—Remember me—to the Duchess of Buckingham.'</q>
+                <q>"She also, in a proper place, recommended her servants to Mr. Morice.</q>
+                <p>"She now found her feet cold, and ordered them to be rubbed, at the same time
+                    calling for her broth; but when it came, not being able to <pb
+                        facs="noble_038.jpg" n="37"/>
+                    <fw>FILIAL AFFECTION. 37</fw> swallow it, she turned herself on her left side,
                     and rested her head on her left hand, which she doubled, extending her right
-                    hand and arm over the bed-clothes ; and in this posture continued drawing her
+                    hand and arm over the bed-clothes; and in this posture continued drawing her
                     breath shorter and shorter, but with the least emotion that possibly could be,
                     till she at last expired, a quarter before four o'clock, on Tuesday morning, 8th
                     November, NS.</p>
                 <p>The following epitaph, written by Pope, on this striking example of affection, is
                     too interesting to be omitted here.</p>
 
-                <p>ON DR. FRANCIS ATTERBURY, BISHOP OF ROCHESTER, —Who died in exile, at Paris,
+                
+                    <floatingText>
+                        <body>
+                            <p>ON DR. FRANCIS ATTERBURY, BISHOP OF ROCHESTER, —Who died in exile, at Paris,
                     1732, (his only daughter having expired in his arms, immediately after she
-                    arrived in France to see him.) Dialogue. SHE. Yes we have lived—one pang and
+                    arrived in France to see him.)</p> 
+                    <fw><hi rend="italics">Dialogue.</hi></fw> 
+                    <p><name type="pronoun">SHE.</name> 
+                    Yes we have lived—one pang and
                     then we part ! May heaven, dear Father ! now have all thy heart ; Yet, ah ! how
-                    once we lov'd, remember still, Till you are dust like me. HE. Dear shade ! I
+                    once we lov'd, remember still, Till you are dust like me.</p> 
+                    <p><name type="pronoun">HE.</name> 
+                        Dear shade ! I
                     will Then mix this dust with thine-0 spotless ghost ! 0 more than fortune,
                     friends, or country lost! Is there on earth one care, one wish beside, Yes—save
-                    my country,---heaven,— He said and dy'd.</p>
+                    my country,-heaven,— He said and dy'd.</p></body></floatingText>
+                <lb type="horBar"/>
                 <fw>D2</fw>
-                <pb facs="x" n="38"/>
+                <pb facs="noble_039.jpg" n="38"/>
                 <fw>38 FILIAL AFFECTION.</fw>
                 <quote>"'Tis thine on ev'ry heart to grave thy praise, A monument which Worth alone
-                    can raise.” <persName>BROOME.</persName></quote>
+                    can raise.” <persName>B<hi rend="smallCaps">roome</hi>.</persName></quote>
 
                 <p>F<hi rend="smallCaps">rom</hi> the preceding illustrious sample of the power of
                     filial affection, we turn to one not less affecting, though displayed in a
@@ -329,12 +333,13 @@
                     avail himself of the offer, at the same time presenting her with ten guineas,
                     with which, her heart overflowing with joy and gratitude, she hastened home to
                     relieve her parents.</p>
-                <pb facs="x" n="39"/>
+                <lb type="horBar"/>
+                <pb facs="noble_x040.jpg" n="39"/>
                 <fw>FILIAL AFFECTION. 39</fw>
                 <quote>“Stay, go, do what you will, the like do I; For live I will not, if my father
-                    die." <persName>SHAKESPEARE.</persName></quote>
+                    die." <persName>S<hi rend="smallCaps">hakespeare</hi>.</persName></quote>
 
-                <p>DURING the French Revolution, which endangered the lives of so many parents,
+                <p>D<hi rend="smallCaps">uring</hi> the French Revolution, which endangered the lives of so many parents,
                     filial affection, rising superior to all selfish considerations of safety, might
                     be seen in many interesting forms. Daughters then subjected themselves to every
                     indignity, in their endeavours to alleviate the sufferings of those who were
@@ -354,7 +359,7 @@
                     refused to avail herself of it being resolved to share her father's fate, and
                     she succeeded in obtaining permission to remain with him. While in and the
                     prison, by her interesting appearance, and the pathetic eloquence of her
-                    language, she was so fortunate <pb facs="x" n="40"/>
+                    language, she was so fortunate <pb facs="noble_041.jpg" n="40"/>
                     <fw>40 FILIAL AFFECTION. </fw> as to interest some Marseillois, who had
                     quartered themselves in the Abbey, in her behalf; thus for a time her father’s
                     life was safe. On the 2d of September, however, after an uninterrupted massacre,
@@ -373,8 +378,8 @@
                     my heart!” At this moving spectacle the assassins hesitated and trembled, while
                     a shout of pardon! Pardon! Was heard from one individual, and echoed by a
                     hundred voices. The Marseillois opened themselves a passage to the two victims,
-                    and the father and daughter, covered with this sacred shield, <pb facs="x"
-                        n="41"/>
+                    and the father and daughter, covered with this sacred shield, <pb
+                        facs="noble_042.jpg" n="41"/>
                     <fw>FILIAL AFFECTION. 41</fw> were conducted, with shouts of applause, from that
                     habitation of misfortunes and crimes.</p>
                 <p>The liberation of Cazotte, however, afforded temporary security : he was again
@@ -395,11 +400,11 @@
                     however they arrived there, the unhappy girl was denied admission, and compelled
                     to yield up her father. In an agony of grief, she hastened to the Commune, and
                     to the Minister of the Interior, from whom, by her supplications and tears, she
-                    wrested their permission to attend her <pb facs="x" n="42"/>
+                    wrested their permission to attend her <pb facs="noble_043.jpg" n="42"/>
                     <fw>42 FILIAL AFFECTION.</fw> father. From that moment she devoted he wholly to
                     him, spending day and night in administering to his comforts. The only time that
                     she passed away from his prison, was employed in securing promises of support
-                    from the same Marseillois, who had formerly rendered her father such service;
+                    from the same <hi rend="italics">Marseillois</hi>, who had formerly rendered her father such service;
                     and she likewise, received promises from several ladies of distinction, that
                     their interest should be exerted in her behalf. These expectations were, alas!
                     vainly excited, for every human being abandoned them in the hour of trial.</p>
@@ -417,7 +422,7 @@
                     the dreadful conclusion of the speech of the Public Accuser, which was but too
                     faithful an omen of his fate. Pale, trembling, and ready to sink into the
                     ground, she was only sustained by her father’s voice,</p>
-                <pb facs="x" n="43"/>
+                <pb facs="noble_044.jpg" n="43"/>
                 <fw>FILIAL AFFECTION. 43</fw>
                 <p>Who in a low tone, pointing towards heaven, addressed to her a few words of
                     consolation. But though calmed for the moment, when the sentence was about to be
@@ -432,19 +437,16 @@
                     was not until surrounded by her father's friends, and become a witness of their
                     affliction, that her own sorrow could receive any mitigation, and the favourable
                     moment was seized to lead her back to her family.</p>
-
-
-
-
+                <lb type="horBar"/>
                 <quote> "May my fears, My filial fears, be vain ! and may the vaunts And menace of
                     the vengeful enemy Pass like the gust, thqt roar'd and died away In the distant
                     tree : which heard, and only heard in this low deli, bow'd not the delicate
-                    grass !" <persName>COLERIDGE.</persName></quote>
+                    grass !" <persName>C<hi rend="smallCaps">oleridge</hi>.</persName></quote>
 
 
                 <p>T<hi rend="smallCaps">he</hi> heroism of Elizabeth Cazotte, which could not fail
                     to excite the admiration and sympathy of her countrywomen, was imitated by many
-                    young persons, from similar impulses <pb facs="x" n="44"/>
+                    young persons, from similar impulses <pb facs="noble_045.jpg" n="44"/>
                     <fw>44 FILIAL AFFECTION.</fw> Of devoted affection. Mademoiselle de Sombreuil
                     claims a share of our esteem for the intrepdity she displayed, when, rushing
                     into the presence of the murderers who had seized her father, she exclaimed as
@@ -464,7 +466,7 @@
                     was heard from those who had difficulty refrained from tears. The daughter was
                     clasped in her father’s trembling arms, and they left the prison together,
                     conducted in triumph by those who had come for so very different a purpose.</p>
-                <p>Sombreuil had further evils to encounter: <pb facs="x" n="45"/>
+                <p>Sombreuil had further evils to encounter: <pb facs="noble_046.jpg" n="45"/>
                     <fw>FILIAL AFFECTION. 45</fw> he was shortly again arrested with his daughter,
                     and led to prison. The latter had lost no portion of her courage, though she had
                     been afflicted with frequent convulsions since the violence she had done to her
@@ -475,10 +477,9 @@
                     encouraged him to support himself with fortitude, whatever might occur.
                     Sombreuil finally yielded up his life on the scaffold, when the existence of his
                     daughter became a state worse than that of death.</p>
-
-
+                <lb type="horBar"/>
                 <quote> “The grave unites; where e'en the Great find rest, A nd blended lie th'
-                    oppressor and th' opprest." <persName>POPE.</persName></quote>
+                    oppressor and th' opprest." <persName>P<hi rend="smallCaps">ope</hi>.</persName></quote>
 
                 <p>I<hi rend="smallCaps">n</hi> the prisons of Paris whole families were frequently
                     crowded together, when the members of each would be united so strongly by
@@ -488,7 +489,7 @@
                 <p> When the ci-devant marchioness de Bois Beranger was detained in the Luxembourg
                     with her father, mother, and a younger sister, she forgot her own misfortunes in
                     indeavouring to console her family under theirs. A soici- <fw>VOL. I. E </fw>
-                    <pb facs="x" n="46"/>
+                    <pb facs="noble_047.jpg" n="46"/>
                     <fw>46 FILIAL AFFECTION.</fw> Tude even maternal was displayed in her unceasing
                     tenderness towards her mother, whose drooping fortitude was re-animated by her
                     example. When at length the act of accusation arrived for her father, mother,
@@ -509,11 +510,12 @@
                     the scaffold, she supported her mother, who seemed to be overcome by an excess
                     of grief. The sorrows of her parents appeared alone to be subjects of regret tot
                     eh marchioness at this critical moment. “Dearest madam, “ she said in the
-                    tenderest accent, “be consoled: why are you not happy? You <pb facs="x" n="47"/>
+                    tenderest accent, “be consoled: why are you not happy? You <pb
+                        facs="noble_048.jpg" n="47"/>
                     <fw>FILIAL AFFECTION. 47</fw> die innocent, and in the same innocence all your
                     family follow you to the tomb, and will partake with you, in a better state, the
                     recompense of virtue.”</p>
-
+                <lb type="horBar"/>
                 <quote>“And is it then to live ? when such friends part, ‘Tis the survivor
                     dies."</quote>
 
@@ -533,7 +535,8 @@
                     night.</p>
 
                 <p>When at length they reached the gates of the Conciergerie, she was denied
-                    admittance with him, and compelled to give up the expec- <pb facs="x" n="48"/>
+                    admittance with him, and compelled to give up the expec- <pb
+                        facs="noble_049.jpg" n="48"/>
                     <fw>48 FILIAL AFFECTION.</fw> tation of being his companion in prison. But her
                     fortitude did not yet give way: she did not cease, during three months, to
                     implore the justice and humanity of all those influential persons to whom she
@@ -546,17 +549,17 @@
                     liberty. She never again left her bed, but died in her beloved parent's arms ;
                     still deeming herself happy in having purchased his life at the expense of her
                     own.</p>
-
+                <lb type="horBar"/>
                 <quote>"O'er friendless grief compassion shall awake, And smile on innocence, for
-                    mercy's sake." <persName>CAMPBBLL.</persName></quote>
+                    mercy's sake." <persName>C<hi rend="smallCaps">ampbell</hi>.</persName></quote>
 
                 <p>W<hi rend="smallCaps">ho</hi> has not heard, and who has not shed tears at
                     hearing, of that beautiful and interesting girl of only eight years of age, who
                     went every morning to the Place de la Revolution, to mourn and lament the death
                     of her mother, who was executed there? The child took many precautions to escape
                     observation; but her manner was at length noticed by some women who sold fruit
-                    near the spot. Being asked the cause of her tears, “Ah!” she said, <pb facs="x"
-                        n="49"/>
+                    near the spot. Being asked the cause of her tears, “Ah!” she said, <pb
+                        facs="noble_050.jpg" n="49"/>
                     <fw>FILIAL AFFECTION. 49</fw> “my poor mother, whom I loved so well, died where
                     I now stand; but oh ! do not, I beg of you, tell anyone that you saw me cry, for
                     that, perhaps, would cause the death of my brother and my sisters.” After this
@@ -564,9 +567,9 @@
                     was never seen there again. It was afterwards known that this early victim of
                     filial affection died in a few weeks, bowed down a grief which she could not
                     cast off.”</p>
-
+                <lb type="horBar"/>
                 <quote>“What breast so cold, that is not warmed here?"
-                        <persName>SHAKESPEARE</persName>,</quote>
+                        <persName>S<hi rend="smallCaps">hakespeare</hi></persName>,</quote>
                 <p>A<hi rend="smallCaps">nother</hi> child was the happy means of saving her
                     father's life. He was a Creole of St, Domingo, and was guilty of no other crime
                     than that of being rich and preserving the inheritance of his forefathers. At
@@ -577,7 +580,7 @@
                     Creole had been blindfolded, and he stood among a crowd of other unfortunate
                     beings, expecting every instant the signal of death. When, however, the order to
                     discharge artillery was about to be given, a little girl rushed forward, with a
-                    loud cry of “My <pb facs="x" n="50"/>
+                    loud cry of “My <pb facs="noble_051.jpg" n="50"/>
                     <fw> 50 FILIAL AFFECTION. </fw> “father! Oh my father! And making her way
                     through the victims, threw her little arms about her parent’s neck, and waited
                     for the moment of dying with him. In vain were all the threats of entreaties;
@@ -592,16 +595,15 @@
                     After that happy escape, he was often accustomed to relate, with feelings of
                     tender emotion, the heroic action of his little girl, then only ten years of
                     age.</p>
-
-
+                <lb type="horBar"/>
                 <quote>“Such is my love, to thee I so belong, That for thy right, myself will bear
-                    all wrong.” <persName>SHAKESPEARE</persName>. </quote>
+                    all wrong.” <persName>S<hi rend="smallCaps">hakespeare</hi></persName>. </quote>
 
                 <p>D<hi rend="smallCaps">uring</hi> the war of La Vendee, the ci-devant Duke de la
                     Rochefoucault, condemned to die, as well as his daughter, found in the resources
                     of that affectionate girl the means of concealing himself until a period arrived
                     more favourable to that justice which he unsuccessfully claimed. </p>
-                <pb facs="x" n="51"/>
+                <pb facs="noble_052.jpg" n="51"/>
                 <fw>FILIAL AFFECTION. 51</fw>
                 <p>His daughter's first care was to place him under the roof and protection of an
                     artisan, who had formerly been a domestic in the duke's service, after which she
@@ -615,14 +617,14 @@
                     resolved upon the sacrifice.</p>
                 <p>A general of the Republic happened at that time to be passing through the city in
                     which was her place of concealment : she addressed the following letter to him :
-                    "CITIZEN GENERAL : Wherever the voice of nature is heard, a daughter may be
+                    "C<hi rend="smallCaps">itizen</hi> G<hi rend="smallCaps">eneral</hi>: Wherever the voice of nature is heard, a daughter may be
                     allowed to claim the compassion of men in behalf of her father. Condemned to
                     death at the same time with him who Gave me being, I have successfully preserved
                     him from the sword of the executioner, and have preserved myself to watch over
                     his safety. But in saving his life, I have not been able to furnish all that is
                     necessary to support him. My unhappy father, whose entire property is
                     confiscated, suffers at this moment the want of almost every thing. Without
-                    clothes, without bread, without a <pb facs="x" n="52"/>
+                    clothes, without bread, without a <pb facs="noble_053.jpg" n="52"/>
                     <fw>52 FILIAL AFFECTION.</fw> Friend to save him from perishing of want, he has
                     not even the resource of the beggar, which still furnishes a little hope, that
                     of being able to appeal to the compassionate, and to present his white hairs to
