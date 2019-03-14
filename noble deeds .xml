@@ -61,6 +61,7 @@
             </particDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2019-03-14"><name>Ashley Morrison</name> added settlement tag</change>
             <change when="2019-02-19"><name>Ashley Morrison</name> create TEI/XML document</change>
             <change when="2019-02-18"><name>Paige McCoy</name> create OCR of Hospitality
                 chapter</change>
@@ -101,13 +102,13 @@
                 <p>W<hi rend="smallCaps">ashington</hi> I<hi rend="smallCaps">rving</hi>, in his
                     Life of Columbus, gives an interesting account of Anacaona, widow of Caonabo,
                     who, after the capture of her husband by the Spaniards, had taken refuge with
-                    her brother, the Cacique Behechio, who governed the province of Xaragua.</p>
+                    her brother, the Cacique Behechio, who governed the province of <settlement type="province" subtype="chiefdom">Xaragua</settlement>.</p>
                 <p>On the death of Behechio, Anacaona succeeded to the government. Her magnanimous
                     spirit was evinced in her amicable treatment of the Spaniards, towards whom,
                     notwithstanding the ruin in which they had involved her husband, who died their
                     prisoner, she appears to have entertained no vindictive feeling.</p>
                 <p>Notwithstanding the friendly behaviour of Anacaona, Ovando, the Spanish general,
-                    imagined that there was a deep-laid conspiracy, among the Indians of Xaragua, to
+                    imagined that there was a deep-laid conspiracy, among the Indians of <settlement type="province" subtype="chiefdom">Xaragua</settlement>, to
                     rise upon the Spaniards; and he "set out for that prodvince, at the head of
                     three hundred foot soldiers, armed with swords, arquebuses, and crossbows, and
                     seventy horsemen, with cuirasses, bucklers, and lances. He pretended that he was
@@ -134,7 +135,7 @@
                 <p>"Notwithstanding all this kindness, Ovando being persuaded that Anacaona secretly
                     meditated a massacre of himself and his followers, resolved to anticipate the
                     supposed plot by a counter-artifice, and to overwhelm this defenceless people in
-                    an indiscriminate and bloody vengeance. </p>
+                    an indiscriminate and bloody vengeance.</p>
                 <p>"He accordingly invited the Indians, in return, to witness certain national games
                     of his country; and amongst other diversions was to be a tilting match, or joust
                     with reeds, and all the Spaniards were secretly instructed to arm themselves
@@ -165,29 +166,29 @@
                     befriended."</p>
                 <quote>"This ancient fortress of my race Shall be misfortune’s resting-place,
                     Shelter and shield of the distress’d, No slaughter-house for shipwreck’d guest."</quote>
-                <p>"R<hi rend="smallCaps">enata</hi>, Duchess of Ferrara, daughter of Louis the
+                <p>"R<hi rend="smallCaps">enata</hi>, Duchess of <settlement type="city">Ferrara</settlement>, daughter of Louis the
                     Twelfth, and of Anne of Bretagne, after her conversion to the Protestant faith,
-                    and her retirement to the castle of Montargis, was distinguished by her
+                    and her retirement to the castle of <settlement type="commune">Montargis</settlement>, was distinguished by her
                     hospitality and goodness. She displayed her kindness more particularly towards
-                    her countrymen: every Frenchman, who in travelling through Ferrara was exposed
+                    her countrymen: every Frenchman, who in travelling through <settlement type="city">Ferrara</settlement> was exposed
                     to want or sickness, experienced her benevolence and liberality. After the
-                    return of the Duke of Guise from Italy, she saved, as the army passed through
-                    Ferrara, more than <hi rend="italics">ten thousand</hi> of the French from
+                    return of the Duke of Guise from <settlement type="country">Italy</settlement>, she saved, as the army passed through
+                    <settlement type="city">Ferrara</settlement>, more than <hi rend="italics">ten thousand</hi> of the French from
                     perishing by want and hardships. Her steward representing to her the enormous
                     sums which her bounty thus expended, 'What,' replied she, 'would you have me do?
                     These are my countrymen, who would have been my subjects but for the Salic law.'
-                    During the civil wars in France, she retired into her city and castle of
-                    Montargis, where she received and supported numbers of distressed persons, who
+                    During the civil wars in <settlement type="country">France</settlement>, she retired into her city and castle of
+                    <settlement type="commune">Montargis</settlement>, where she received and supported numbers of distressed persons, who
                     had been driven from their homes and estates."</p>
 
                 <p>"I myself," says Brantome, "during the second period of these troubles, when the
                     force <pb facs="noble_011.jpg" n="44"/>
-                    <fw>44 HOSPITALITY.</fw> of Gascoigne, consisting of eight thousand men, headed
+                    <fw>44 HOSPITALITY.</fw> of <settlement type="unknown">Gascoigne</settlement>, consisting of eight thousand men, headed
                     by Messrs. De Ferrides and De Mousales, were marching towards the king, and
-                    passing by Montargis, stopped as in duty bound to pay my respects to her. I
+                    passing by <settlement type="commune">Montargis</settlement>, stopped as in duty bound to pay my respects to her. I
                     myself saw, in her castle, above three hundred protestants, who had fled thither
-                    from all parts of the country. An old steward whom I had known at Ferrara and in
-                    France, protested to me that she fed daily more than three hundred people, who
+                    from all parts of the country. An old steward whom I had known at <settlement type="city">Ferrara</settlement> and in
+                    <settlement type="country">France</settlement>, protested to me that she fed daily more than three hundred people, who
                     had taken refuge with her."</p>
                 <lb type="horBar"/>
                 <quote>"If a hope of safety rest, 'Tis on the sacred name of guest."</quote>
@@ -221,7 +222,7 @@
                 <quote>"Take with free welcome what our hands prepare, Such food as falls to simple
                     servants' share." P<hi rend="smallCaps">ope's</hi> H<hi rend="smallCaps">omer</hi>.</quote>
 
-                <p>"A<hi rend="smallCaps">fter</hi> the battle of Culloden, so fatal to the last
+                <p>"A<hi rend="smallCaps">fter</hi> the battle of <settlement type="village">Culloden</settlement>, so fatal to the last
                     hopes of the House of Stuart, Colonel Stuart, attended by his friend, Mr.
                     Hamilton of Balgour, sought his personal safety in flight. They approached a
                     lonely hut in the Highlands, to which Mr. Hamilton went to ask</p>
@@ -253,7 +254,7 @@
                     <fw>HOSPITALITY, 47</fw> same period, by the conduct of a clergyman and his
                     wife, of the name of Gordon.</p>
 
-                <p>"After the battle of Culloden, immense numbers of officers and men received
+                <p>"After the battle of <settlement type="village">Culloden</settlement>, immense numbers of officers and men received
                     refreshments from Mrs. Gordon, and every part of the manse, except one room, was
                     filled with the wounded. To guard against treachery, Mrs. Gordon lodged the
                     fugitives in separate apartments. So cautiously did she conceal from each, the
@@ -267,7 +268,7 @@
                     Milton, and the colonel himself must be Mr. Grey. She gave separate chambers to
                     each, and as Colonel Stuart was the most obnoxious to government, the window of
                     his room allowed a speedy retreat to the lake, where a boat was constantly in
-                    waiting, to facilitate his escape to the upper district of Badenoch, in case of
+                    waiting, to facilitate his escape to the upper district of <settlement type="district">Badenoch</settlement>, in case of
                     a close pursuit by the military stationed all around, to intercept the outlaws.
                     In a few days Colonel Stuart found he must betake himself to his friends in the
                     mountains; but the inquest in that quarter be- <pb facs="noble_015.jpg" n="48"/>
@@ -298,7 +299,7 @@
                     Gordon’s only child."</p>
 
                 <p>Colonel Stuart pays the following tribute to the female sex: "In all our
-                    wanderings,” says he, “we have preferred applying to the gentler sex. They never
+                    wanderings," says he, "we have preferred applying to the gentler sex. They never
                     rejected us; and, if they could contribute to providing for our safety, after
                     separating from them, we found they had a quick and clear perception of the
                     means, and sympathy to stimulate their exertions, and to render them effectual.
@@ -310,7 +311,7 @@
                     we give, to Jove is lent." P<hi rend="smallCaps">ope's</hi> H<hi rend="smallCaps">omer</hi>. </quote>
                 <p>T<hi rend="smallCaps">he</hi> celebrated traveler, Mr. Mungo Park, experienced
                     the hospitality of the female-sex on many occasions. “In his first African
-                    journey he had arrived at Sego, the capital of the kingdom of Bambarra, and
+                    journey he had arrived at <settlement type="city">Sego</settlement>, the capital of the kingdom of <settlement type="state" subtype="kingdom">Bambarra</settlement>, and
                     sought to obtain a passage across the river to that part of the town in which
                     the king resided; but owing <pb facs="noble_017.jpg" n="50"/>
                     <fw>50 HOSPITALITY.</fw> to the crowd of passengers, he was detained two hours;
@@ -348,7 +349,7 @@
                     private life?" A<hi rend="smallCaps">kenside</hi>. </quote>
 
                 <p>"W<hi rend="smallCaps">hen</hi>, at the period of the French Revolution, the
-                    chiefs of Gironde party were fugitives in the south of France, and every where
+                    chiefs of Gironde party were fugitives in the south of <settlement type="country">France</settlement>, and every where
                     sought that asylum which was too often denied them by self-love and cowardice,
                     Gaudet found a place of succour and safety in the house of one of his female
                     relatives, whose name was Bouquet, not only for himself, but also for his friend
@@ -372,7 +373,7 @@
                     second asylum, more healthy, and almost as secure. A few days afterwards, Buzot
                     and Petion informed them by letter, that having within fifteen days changed
                     their place of retreat seven times, they were now reduced to the greatest
-                    distress. ‘Let them both come,’ exclaimed this generous woman.</p>
+                    distress. 'Let them both come,' exclaimed this generous woman.</p>
 
                 <p>"All this time not a day passed without Madame Bouquet being menaced with a
                     domiciliary visit, not a day in which the guillotine did not lay some heads in
@@ -435,7 +436,7 @@
                     before Madame Bouquet was arrested, together with the whole family of Guadet. It
                     was well known with what tenderness and ingenuity the father of that Deputy
                     sought to save his son, who, with his friend Salles, had taken refuge under his
-                    roof. Carried before the Revolutionary Tribunal of Bourdeaux, his judges were
+                    roof. Carried before the Revolutionary Tribunal of <settlement type="city">Bourdeaux</settlement>, his judges were
                     too prudent to question this venerable man concerning the concealment of his
                     son; even they dreaded the touching voice of nature, and the indignation of
                     virtue. He was simply asked why he had given asylum to Salles; to which the old
@@ -463,10 +464,10 @@
                     The home of happiness, an honest breast." <persName>R<hi rend="smallCaps">ogers</hi>.</persName></quote>
 
                 <p>"A<hi rend="smallCaps">nother</hi> outlawed Deputy, Lanjuinais, took refuge at
-                    Rennes, at a house belonging to his mother, and of which an old female domestic
+                    <settlement type="city">Rennes</settlement>, at a house belonging to his mother, and of which an old female domestic
                     had the care. The fear of terrifying this poor woman caused him, at first, to
                     conceal from her his real situation; but having learnt from the public papers
-                    the execution of Guadet, at Bourdeaux, and that the government had extended
+                    the execution of Guadet, at <settlement type="city">Bourdeaux</settlement>, and that the government had extended
                     their inveterate proscriptions to those friends of the outlawed Deputies who
                     should give them shelter, and even to the domestics who would not reveal the
                     places of their concealment, he determined immediately to declare himself, and
@@ -497,7 +498,7 @@
                     compelled to fly from place to place, every moment in danger of falling into the
                     hands of his pursuers. Madame Paysac, an inhabitant of <fw>F*</fw>
                     <pb facs="noble_025.jpg" n="58"/>
-                    <fw>58 HOSPITALITY.</fw> Paris, having learnt that he was concealed somewhere in
+                    <fw>58 HOSPITALITY.</fw> <settlement type="city">Paris</settlement>, having learnt that he was concealed somewhere in
                     that city, took every possible means to discover his retreat, that she might
                     offer him a more secure asylum in her own house. The worthy St. Etienne refused
                     to avail himself of a friendship that could scarcely fail to entail destruction
@@ -516,7 +517,7 @@
                 <quote>"Stranger! whoe'er thou art, securely rest Affiane'd in my faith, a friendly
                     guest." <persName>P<hi rend="smallCaps">ope</hi></persName></quote>
 
-                <p>"I<hi rend="smallCaps">n</hi> the city of Brest, a stranger one day presented
+                <p>"I<hi rend="smallCaps">n</hi> the city of <settlement type="city">Brest</settlement>, a stranger one day presented
                     himself before a lady named Ruvilly, and besought her to grant him an asylum
                     from <pb facs="noble_026.jpg" n="59"/>
                     <fw>HOSPITALITY. 59</fw> the dangers of proscription. There was something in the

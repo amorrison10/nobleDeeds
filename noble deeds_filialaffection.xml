@@ -52,6 +52,7 @@
             </particDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2019-03-13"><name>Ashley Morrison</name> added settlement tag</change>
             <change when="2019-02-28"><name>Ashley Morrison</name> proof-read document</change>
             <change when="2019-02-27"><name>Ashley Morrison</name> create TEI/XML document</change>
             <change when="2019-02-26"><name>Paige McCoy</name> create OCR of Filial Affection
