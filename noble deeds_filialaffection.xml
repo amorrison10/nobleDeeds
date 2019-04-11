@@ -52,6 +52,7 @@
             </particDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2019-04-20"><name>Paige McCoy</name> added tagging</change>
             <change when="2019-03-13"><name>Ashley Morrison</name> added settlement tag</change>
             <change when="2019-02-28"><name>Ashley Morrison</name> proof-read document</change>
             <change when="2019-02-27"><name>Ashley Morrison</name> create TEI/XML document</change>
@@ -101,21 +102,22 @@
                         special wonder?" <persName>S<hi rend="smallCaps">hakespeare</hi>.</persName>
                     </quote>
                     <p>T<hi rend="smallCaps">he</hi> Roman history furnishes us with two remarkable
-                        examples of filial piety. A Roman lady, of illustrious birth, had for some
-                        cause been condemned to be strangled, and was sent to prison in order to be
-                        put to death. The gaoler, who had received orders to strangle her, was
-                        touched with compassion for her beauty and misfortunes, and not being able
-                        to resolve to kill her, determined to let her die of hunger. He however
-                        consented to allow her daughter to visit her in the prison, taking care that
-                        she brought her mother no food. Many days elapsed, during which the
-                        daughter's visits were very frequent: at length the gaoler became surprised
-                        that his prisoner could exist so long without sustenance. His suspicions
-                        immediately rested on the daughter, whom he now determined to watch still
-                        more closely: to his utmost astonishment he found that she nourished her
-                        mother with her own milk. His amazement at this pious and ingenious
-                        invention caused him to inform the triumvir of the circumstance, who
-                        immediately acquainted the praetor with it. The latter, <pb
-                            facs="noble_030.jpg" n="29"/>
+                        examples of filial piety. <trait type="Roman" subtype="female"/>A Roman
+                        lady, of illustrious birth, had for some cause been condemned to be
+                        strangled, and was sent to prison in order to be put to death. The <trait
+                            type="Roman" subtype="male"/>gaoler, who had received orders to strangle
+                        her, was touched with compassion for her beauty and misfortunes, and not
+                        being able to resolve to kill her, determined to let her die of hunger. He
+                        however consented to allow her <trait type="Roman" subtype="female"
+                        />daughter to visit her in the prison, taking care that she brought her
+                        mother no food. Many days elapsed, during which the daughter's visits were
+                        very frequent: at length the gaoler became surprised that his prisoner could
+                        exist so long without sustenance. His suspicions immediately rested on the
+                        daughter, whom he now determined to watch still more closely: to his utmost
+                        astonishment he found that she nourished her mother with her own milk. His
+                        amazement at this pious and ingenious invention caused him to inform the
+                        triumvir of the circumstance, who immediately acquainted the praetor with
+                        it. The latter, <pb facs="noble_030.jpg" n="29"/>
                         <fw>FILIAL AFFECTION. 29</fw> considering it worthy the public attention,
                         related it in an assembly of the people. The result was the pardon of the
                         criminal; and, at the same time, a decree was passed, that for the future
@@ -129,22 +131,24 @@
                         both would save; But if a nursling only one can live, I choose to save the
                         life I cannot give." </quote>
 
-                    <p>X<hi rend="smallCaps">antippe</hi>, another Roman lady, supported her aged
-                        father Cimonus in a similar manner, in order to preserve his life while in
-                        prison. This last circumstance was called the "Roman Charity." Both these
-                        pious actions appeared so extraordinary to that people, that they could only
-                        account for them by supposing that filial affection was the first law of
-                        nature.</p>
+                    <p>X<hi rend="smallCaps">antippe</hi>, another <trait type="Roman"
+                            subtype="female"/>Roman lady, supported her aged father <trait
+                            type="Roman" subtype="male"/>Cimonus in a similar manner, in order to
+                        preserve his life while in prison. This last circumstance was called the
+                        "Roman Charity." Both these pious actions appeared so extraordinary to that
+                        people, that they could only account for them by supposing that filial
+                        affection was the first law of nature.</p>
                 </div2>
                 <lb type="horBar"/>
                 <div2>
                     <quote> "'Twas the first time I mourned the dead: It was my heaviest loss, my
                         worst,— My father!—and was thine the first?" <persName>L. E.
                         L.</persName></quote>
-                    <p>M<hi rend="smallCaps">odern</hi> history commemorates the name of Margaret
-                        Roper, the daughter of Sir Thomas More, as another illustrious example of
-                        this affection. When Sir Thomas, who had refused to take the oath of
-                        supremacy, was cast into <pb facs="noble_031.jpg" n="30"/>
+                    <p>M<hi rend="smallCaps">odern</hi> history commemorates the name of <trait
+                            type="English" subtype="female"/>Margaret Roper, the daughter of <trait
+                            type="English" subtype="male"/>Sir Thomas More, as another illustrious
+                        example of this affection. When Sir Thomas, who had refused to take the oath
+                        of supremacy, was cast into <pb facs="noble_031.jpg" n="30"/>
                         <fw>30 FILIAL AFFECTION. </fw> prison, his daughter, who was overwhelmed
                         with grief, was, through incessant importunity, permitted to visit him.
                         Admitted at length to his prison, she endeavoured, by every argument,
@@ -187,24 +191,24 @@
                     <quote> "O glorious trial of exceeding, love, Illustrious evidence, example
                         high!" <persName>M<hi rend="smallCaps">ilton</hi>.</persName></quote>
 
-                    <p>T<hi rend="smallCaps">he</hi> exile of the Bishop of Rochester gave occasion
-                        to a very interesting exercise of paternal tenderness on the one part, and
-                        of filial duty and affection on the other. What mostly <pb
-                            facs="noble_033.jpg" n="32"/>
+                    <p>T<hi rend="smallCaps">he</hi> exile of the <trait type="British"
+                            subtype="male"/>Bishop of Rochester gave occasion to a very interesting
+                        exercise of paternal tenderness on the one part, and of filial duty and
+                        affection on the other. What mostly <pb facs="noble_033.jpg" n="32"/>
                         <fw>32 FILIAL AFFECTION.</fw> embittered the banishment of the Bishop, was
-                        regret at leaving behind him his daughter, Mrs. Morice, in an infirm state
-                        of health. A mutual longing to see one another took fast hold of the father
-                        and daughter; and the lady, though very ill, performed, with great
-                        difficulty and pain, a journey and voyage from <settlement type="city"
-                            >Westminster</settlement> to <settlement type="city"
-                            >Bourdeaux</settlement>, and <settlement type="city"
-                            >Toulouse</settlement>, where Dr. Atterbury resided. Mr. J. Evans
-                        accompanied Mr. and Mrs. Morice on their voyage from <settlement type="town"
-                            >Dover</settlement> to <settlement type="city">Bourdeaux</settlement>,
-                        and from thence to <settlement type="city">Toulouse</settlement>; and being
-                        present at Mrs. Morice’s death, in a letter to his brother, dated
-                        Montpelier, 30th November, 1729, gives the following very pathetic narrative
-                        of that event.</p>
+                        regret at leaving behind him his daughter, <trait type="English"
+                            subtype="female"/>Mrs. Morice, in an infirm state of health. A mutual
+                        longing to see one another took fast hold of the father and daughter; and
+                        the lady, though very ill, performed, with great difficulty and pain, a
+                        journey and voyage from <settlement type="city">Westminster</settlement> to
+                            <settlement type="city">Bourdeaux</settlement>, and <settlement
+                            type="city">Toulouse</settlement>, where Dr. Atterbury resided. Mr. J.
+                        Evans accompanied Mr. and Mrs. Morice on their voyage from <settlement
+                            type="town">Dover</settlement> to <settlement type="city"
+                            >Bourdeaux</settlement>, and from thence to <settlement type="city"
+                            >Toulouse</settlement>; and being present at Mrs. Morice’s death, in a
+                        letter to his brother, dated Montpelier, 30th November, 1729, gives the
+                        following very pathetic narrative of that event.</p>
                     <q>"On Sunday, the 6th instant, N.S. in the evening, we reached <settlement
                             type="village">Blagnac</settlement>, a village not above half a league
                         by land from <settlement type="city">Toulouse</settlement>; but by water (by
@@ -347,18 +351,19 @@
                     <p>F<hi rend="smallCaps">rom</hi> the preceding illustrious sample of the power
                         of filial affection, we turn to one not less affecting, though displayed in
                         a humbler path of life. In the severe winter of 1783, Which was a time of
-                        general distress at <settlement type="state">New York</settlement>, an aged
-                        couple found themselves reduced to their last stick of wood. They had been
-                        supported by the industry of a daughter who lived with them, but who now
-                        found herself unable to procure them either fuel or provisions. Overcome
-                        with grief at their destitute situation, she yet devised an expedient by
-                        which they might be rescued from the emergency. She had accidentally heard
-                        that a dentist had advertised or to give three guineas for every only sound
-                        fore-tooth, provided only that he was allowed to extract it himself: the
-                        generous girl, on remembering this, came to the resolution of disposing of
-                        all her foreteeth, and went to the dentist for that purpose. On her arrival,
-                        she made known the circumstances which had induced her to make so uncommon a
-                        sacrifice.</p>
+                        general distress at <settlement type="state">New York</settlement>, an
+                            <trait type="American" subtype="couple"/> aged couple found themselves
+                        reduced to their last stick of wood. They had been supported by the industry
+                        of a <trait type="American" subtype="female"/>daughter who lived with them,
+                        but who now found herself unable to procure them either fuel or provisions.
+                        Overcome with grief at their destitute situation, she yet devised an
+                        expedient by which they might be rescued from the emergency. She had
+                        accidentally heard that a dentist had advertised or to give three guineas
+                        for every only sound fore-tooth, provided only that he was allowed to
+                        extract it himself: the generous girl, on remembering this, came to the
+                        resolution of disposing of all her foreteeth, and went to the dentist for
+                        that purpose. On her arrival, she made known the circumstances which had
+                        induced her to make so uncommon a sacrifice.</p>
                     <p>Affected even to tears by the girl’s filial affection, the dentist refused to
                         avail himself of the offer, at the same time presenting her with ten
                         guineas, with which, her heart overflowing with joy and gratitude, she
@@ -382,12 +387,13 @@
                         these efforts, shared their prison, and voluntarily partook their unhappy
                         fate.</p>
 
-                    <p>Mademoiselle Cazotte, was an only child, and, at the commencement of the
-                        Revolution, her father was seventy-two years of age. Closely connected with
-                        La Porte (the intendant of the civil list), the fate of Cazotte was involved
-                        in his. Some of Cazotte's letters being found on the person of La Porte, the
-                        old man and his daughter were immediately arrested and sent to the prison of
-                        the Abbey.</p>
+                    <p><trait type="French" subtype="female"/>Mademoiselle Cazotte, was an only
+                        child, and, at the commencement of the Revolution, her <trait type="French"
+                            subtype="male"/>father was seventy-two years of age. Closely connected
+                        with La Porte (the intendant of the civil list), the fate of Cazotte was
+                        involved in his. Some of Cazotte's letters being found on the person of La
+                        Porte, the old man and his daughter were immediately arrested and sent to
+                        the prison of the Abbey.</p>
                     <p>Shortly afterwards, Mademoiselle Cazotte having been pronounced innocent, an
                         order arrived at the prison that she might be set at liberty. Elizabeth
                         however refused to avail herself of it being resolved to share her father's
@@ -489,20 +495,21 @@
                     <p>T<hi rend="smallCaps">he</hi> heroism of Elizabeth Cazotte, which could not
                         fail to excite the admiration and sympathy of her countrywomen, was imitated
                         by many young persons, from similar impulses <pb facs="noble_045.jpg" n="44"/>
-                        <fw>44 FILIAL AFFECTION.</fw> Of devoted affection. Mademoiselle de
-                        Sombreuil claims a share of our esteem for the intrepdity she displayed,
-                        when, rushing into the presence of the murderers who had seized her father,
-                        she exclaimed as she fell at their feet, "Barbarians, hold your hands—he is
-                        my father!" In another moment she had so placed herself, that the sword
-                        could not reach father but through the heart of his child. Perceiving that
-                        they hesitated to accomplish their barbarous purpose, she supplicated once
-                        more, with renewed earnestness, that they would spare her father's life.
-                        Even while she spoke, one of the monsters, whose unfeeling heart was proof
-                        against the self-devotion and heroism of the lovely girl at his feet,
-                        annexed to her father's safety the following condition "Drink," said he, "a
-                        glass of blood,-- and save your father." Mademoiselle de Sombreuil
-                        shuddering, retreated several paces, but filial affection gained the
-                        ascendance, and she yielded to the horrible proposal.</p>
+                        <fw>44 FILIAL AFFECTION.</fw> Of devoted affection. <trait type="French"
+                            subtype="female"/> Mademoiselle de Sombreuil claims a share of our
+                        esteem for the intrepdity she displayed, when, rushing into the presence of
+                        the murderers who had seized <trait type="French " subtype="male"/>her
+                        father, she exclaimed as she fell at their feet, "Barbarians, hold your
+                        hands—he is my father!" In another moment she had so placed herself, that
+                        the sword could not reach father but through the heart of his child.
+                        Perceiving that they hesitated to accomplish their barbarous purpose, she
+                        supplicated once more, with renewed earnestness, that they would spare her
+                        father's life. Even while she spoke, one of the monsters, whose unfeeling
+                        heart was proof against the self-devotion and heroism of the lovely girl at
+                        his feet, annexed to her father's safety the following condition "Drink,"
+                        said he, "a glass of blood,-- and save your father." Mademoiselle de
+                        Sombreuil shuddering, retreated several paces, but filial affection gained
+                        the ascendance, and she yielded to the horrible proposal.</p>
                     <p>"Innocent or guilty then," said one of the judges who happened to be present,
                         "it is unworthy of the people to bathe their hands in the blood of this old
                         man, since they must first destroy this virtuous girl." A shout of "pardon!
@@ -535,10 +542,13 @@
                         sole request and wish would be that they might die together, consoled by the
                         reflection, that in escaping from such scenes of dreadful persecution they
                         would still be united in a happier state of existence.</p>
-                    <p> When the ci-devant marchioness de Bois Beranger was detained in the
-                            <settlement type="country">Luxembourg</settlement> with her father,
-                        mother, and a younger sister, she forgot her own misfortunes in indeavouring
-                        to console her family under theirs. A soici- <fw>VOL. I. E </fw>
+                    <p> When the ci-devant <trait type="Luxembourg" subtype="female"/>marchioness de
+                        Bois Beranger was detained in the <settlement type="country"
+                            >Luxembourg</settlement> with her <trait type="Luxembourg"
+                            subtype="male"/>father, <trait type="Luxembourg" subtype="female"
+                        />mother, and a <trait type="Luxembourg" subtype="female"/>younger sister,
+                        she forgot her own misfortunes in indeavouring to console her family under
+                        theirs. A soici- <fw>VOL. I. E </fw>
                         <pb facs="noble_047.jpg" n="46"/>
                         <fw>46 FILIAL AFFECTION.</fw> Tude even maternal was displayed in her
                         unceasing tenderness towards her mother, whose drooping fortitude was
@@ -572,21 +582,22 @@
                     <quote>"And is it then to live ? when such friends part, 'Tis the survivor
                         dies."</quote>
 
-                    <p>M<hi rend="smallCaps">ademoiselle</hi> Delleglace was also a remarkable
-                        instance of filial affection. When her father was to be conveyed from the
-                        prison at <settlement type="city">Lyons</settlement> to the Conciergerie,
-                        this affectionate girl, who from the first moment of his arrest never
-                        quitted him, demanded permission to travel with him in the carriage prepared
-                        for his journey. This boon she could not obtain; but what obstacles can
-                        subdue the strength of filial love? Laying aside the timidity natural to her
-                        sex, and wholly disregarding the weakness of her constitution, Mademoiselle
-                        Delleglace set out on foot with the carriage, which she accompanied in that
-                        manner for more than a hundred leagues. She sometimes quitted the side of
-                        the carriage, but it was only when she preceded her father, to procure
-                        proper nourishment for him in the towns through which they passed; and in
-                        the evening of every day, when she ran forward to beg of some charitable
-                        person a covering, to administer to her father's wants, in the dungeon where
-                        he must pass the night.</p>
+                    <p>M<hi rend="smallCaps">ademoiselle</hi>
+                        <trait type="French" subtype="female"/> Delleglace was also a remarkable
+                        instance of filial affection. When <trait type="French" subtype="male"/>her
+                        father was to be conveyed from the prison at <settlement type="city"
+                            >Lyons</settlement> to the Conciergerie, this affectionate girl, who
+                        from the first moment of his arrest never quitted him, demanded permission
+                        to travel with him in the carriage prepared for his journey. This boon she
+                        could not obtain; but what obstacles can subdue the strength of filial love?
+                        Laying aside the timidity natural to her sex, and wholly disregarding the
+                        weakness of her constitution, Mademoiselle Delleglace set out on foot with
+                        the carriage, which she accompanied in that manner for more than a hundred
+                        leagues. She sometimes quitted the side of the carriage, but it was only
+                        when she preceded her father, to procure proper nourishment for him in the
+                        towns through which they passed; and in the evening of every day, when she
+                        ran forward to beg of some charitable person a covering, to administer to
+                        her father's wants, in the dungeon where he must pass the night.</p>
 
                     <p>When at length they reached the gates of the Conciergerie, she was denied
                         admittance with him, and compelled to give up the expec- <pb
@@ -611,13 +622,14 @@
                         >ampbell</hi>.</persName></quote>
 
                     <p>W<hi rend="smallCaps">ho</hi> has not heard, and who has not shed tears at
-                        hearing, of that beautiful and interesting girl of only eight years of age,
-                        who went every morning to the <settlement type="city" subtype="square">Place
-                            de la Revolution</settlement>, to mourn and lament the death of her
-                        mother, who was executed there? The child took many precautions to escape
-                        observation; but her manner was at length noticed by some women who sold
-                        fruit near the spot. Being asked the cause of her tears, "Ah!" she said, <pb
-                            facs="noble_050.jpg" n="49"/>
+                        hearing, of that beautiful and interesting <trait type="French"
+                            subtype="female"/> girl of only eight years of age, who went every
+                        morning to the <settlement type="city" subtype="square">Place de la
+                            Revolution</settlement>, to mourn and lament the death of her <trait
+                            type="French" subtype="female"/> mother, who was executed there? The
+                        child took many precautions to escape observation; but her manner was at
+                        length noticed by some women who sold fruit near the spot. Being asked the
+                        cause of her tears, "Ah!" she said, <pb facs="noble_050.jpg" n="49"/>
                         <fw>FILIAL AFFECTION. 49</fw> "my poor mother, whom I loved so well, died
                         where I now stand; but oh! do not, I beg of you, tell anyone that you saw me
                         cry, for that, perhaps, would cause the death of my brother and my sisters."
@@ -630,15 +642,16 @@
                 <div2>
                     <quote>"What breast so cold, that is not warmed here?" <persName>S<hi
                                 rend="smallCaps">hakespeare</hi></persName>,</quote>
-                    <p>A<hi rend="smallCaps">nother</hi> child was the happy means of saving her
-                        father's life. He was a Creole of <settlement type="city">St.
-                            Domingo</settlement>, and was guilty of no other crime than that of
-                        being rich and preserving the inheritance of his forefathers. At that time
-                        when the contagious example of the French revolution had spread as far as
-                        the New World, the horrible practice was adopted of assembling in groupes
-                        the unfortunate victims who were ordered to be executed, and then firing l
-                        indiscriminately upon them with cannons loaded with grape-shot. The eyes of
-                        the Creole had been blindfolded, and he stood among a crowd of other
+                    <p>A<hi rend="smallCaps">nother</hi> child was the happy means of saving <trait
+                            type="Dominican" subtype="female"/>her father's life. <trait
+                            type="Dominican" subtype="male"/>He was a Creole of <settlement
+                            type="city">St. Domingo</settlement>, and was guilty of no other crime
+                        than that of being rich and preserving the inheritance of his forefathers.
+                        At that time when the contagious example of the French revolution had spread
+                        as far as the New World, the horrible practice was adopted of assembling in
+                        groupes the unfortunate victims who were ordered to be executed, and then
+                        firing l indiscriminately upon them with cannons loaded with grape-shot. The
+                        eyes of the Creole had been blindfolded, and he stood among a crowd of other
                         unfortunate beings, expecting every instant the signal of death. When,
                         however, the order to discharge artillery was about to be given, a little
                         girl rushed forward, with a loud cry of "My <pb facs="noble_051.jpg" n="50"/>
@@ -662,24 +675,26 @@
                     <quote>"Such is my love, to thee I so belong, That for thy right, myself will
                         bear all wrong." <persName>S<hi rend="smallCaps">hakespeare</hi></persName>. </quote>
 
-                    <p>D<hi rend="smallCaps">uring</hi> the war of La Vendee, the ci-devant Duke de
-                        la <settlement type="commune">Rochefoucault</settlement>, condemned to die,
-                        as well as his daughter, found in the resources of that affectionate girl
-                        the means of concealing himself until a period arrived more favourable to
-                        that justice which he unsuccessfully claimed.</p>
+                    <p>D<hi rend="smallCaps">uring</hi> the war of La Vendee, the ci-devant <trait
+                            type="French" subtype="male"/> Duke de la <settlement type="commune"
+                            >Rochefoucault</settlement>, condemned to die, as well as his daughter,
+                        found in the resources of that affectionate girl the means of concealing
+                        himself until a period arrived more favourable to that justice which he
+                        unsuccessfully claimed.</p>
                     <pb facs="noble_052.jpg" n="51"/>
                     <fw>FILIAL AFFECTION. 51</fw>
-                    <p>His daughter's first care was to place him under the roof and protection of
-                        an artisan, who had formerly been a domestic in the duke's service, after
-                        which she procured an asylum for herself. They were thus both secure from
-                        the immediate power of their persecutors; but, as the duke’s property was
-                        confiscated, and compassion is apt to grow weary of its good offices, the
-                        means of their bare subsistence were soon exhausted. While the daughter was
-                        suffering under the extreme of poverty, she learnt that her father's health
-                        was rapidly declining for want of due nourishment. Madame de la <settlement
-                            type="commune">Rochefoucault</settlement> now saw but one resource left
-                        : to devote her own life to save that of her father ; and she instantly
-                        resolved upon the sacrifice.</p>
+                    <p><trait type="French" subtype="female"/> His daughter's first care was to
+                        place him under the roof and protection of an artisan, who had formerly been
+                        a domestic in the duke's service, after which she procured an asylum for
+                        herself. They were thus both secure from the immediate power of their
+                        persecutors; but, as the duke’s property was confiscated, and compassion is
+                        apt to grow weary of its good offices, the means of their bare subsistence
+                        were soon exhausted. While the daughter was suffering under the extreme of
+                        poverty, she learnt that her father's health was rapidly declining for want
+                        of due nourishment. Madame de la <settlement type="commune"
+                            >Rochefoucault</settlement> now saw but one resource left : to devote
+                        her own life to save that of her father ; and she instantly resolved upon
+                        the sacrifice.</p>
                     <p>A general of the <settlement type="country" subtype="france"
                             >Republic</settlement> happened at that time to be passing through the
                         city in which was her place of concealment: she addressed the following
@@ -720,3 +735,4 @@
         </body>
     </text>
 </TEI>
+
