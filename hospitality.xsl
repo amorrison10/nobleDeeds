@@ -6,6 +6,9 @@
     <xsl:output method="html" indent="yes" encoding="utf-8"/>
     <xsl:template match="TEI">
         <html>
+            <head>
+                <link rel="stylesheet" type="text/css" href="hospitality.css"></link>
+            </head>
             <body>
                 <xsl:apply-templates/>
             </body>
