@@ -7,31 +7,13 @@
     <xsl:template match="TEI">
         <html>
             <head>
-                <link rel="stylesheet" type="text/css" href="hospitality.css"></link>
+                <link rel="stylesheet" type="text/css" href="all_chapter.css"></link>
             </head>
             <body>
                 <xsl:apply-templates/>
             </body>
         </html>
     </xsl:template>
+
     
-    <xsl:template match="p">
-        <p>
-            <xsl:apply-templates/>
-        </p>
-    </xsl:template>
-    <xsl:template match="hi">
-        <em>
-            <xsl:apply-templates/>
-        </em>
-    </xsl:template>
-    <xsl:template match="div">
-        <div>
-            <xsl:apply-templates/>
-        </div>
-    </xsl:template>
-    <xsl:template match="teiHeader"/>
-    <xsl:template match="lb">
-        
-    </xsl:template>
 </xsl:stylesheet>
